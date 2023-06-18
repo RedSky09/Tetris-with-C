@@ -1,4 +1,3 @@
-
 This is one of my college project task. I make a Tertris Clone with c, and also using SDL2. 
 I also add a pixel font (pixel.ttf) and the tetris song (tetris.wav) to make it better.
 
