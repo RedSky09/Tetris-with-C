@@ -5,7 +5,3 @@ You can have it for free.
 Make sure you have link SDL2 with your code editor.
 Because i add a new font and a song, you must to add SDL_ttf and SDL_mixer library, 
 that's for import font and song lib.
-
-THX 
-
-RedSkyyyy
